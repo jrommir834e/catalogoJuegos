@@ -11,4 +11,5 @@
         <maven.compiler.target>20</maven.compiler.target>
         <exec.mainClass>daw.CatalogoJuegos</exec.mainClass>
     </properties>
+    <name>tarea5cJesusromomiranda</name>
 </project>
